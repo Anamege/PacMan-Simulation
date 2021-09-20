@@ -5,3 +5,4 @@ Description: The aim of this project is to demonstrate ability to apply certain 
 Usage: This JavaScript exercise is quite beneficial and can be useful in programs or apps dealing with animations, motion, edge detection, and timing.  
 
 Credit / Support: This exercise was completed using several resources such as MIT Xpro bootcamp, W3 Schools, and MDN. 
+<img src="PacMan1.png>
