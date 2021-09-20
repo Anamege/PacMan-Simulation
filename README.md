@@ -6,4 +6,4 @@ Usage: This JavaScript exercise is quite beneficial and can be useful in program
 
 Credit / Support: This exercise was completed using several resources such as MIT Xpro bootcamp, W3 Schools, and MDN. 
 
-<img src="PacMan1.png>
+<img src="PacMan1.png">
