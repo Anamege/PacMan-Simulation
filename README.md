@@ -1,3 +1,5 @@
+<h1>PacMan Simulation</h1>
+
 About PacMan Motion and Edge Detection Simulation Project
 
 Description: The aim of this project is to demonstrate ability to apply certain JavaScript skills such as use of functions. In this project, I applied functions such as checkPageBounds, setIntervals, and setTimeouts to make PacMan move from one side of the screen to the other then reversing upon reaching the left and right edges of the screen.
